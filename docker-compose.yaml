@@ -28,4 +28,4 @@ services:
        MYSQL_PASSWORD: my_wordpress_db_password
 volumes:
     wordpress_files:
-      db_data::
+    db_data::
